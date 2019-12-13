@@ -2,7 +2,13 @@
     text-decoration: line-through red;
 }
 
-.red-color-priority {
+
+
+.priority-one {
+    font-size: 1.8rem;
+    color: rgba(212, 15, 15, 0.685);
+}
+.priority-two {
     font-size: 1.5rem;
-    color: #440404;
+    color: #ec7404d8;
 }
