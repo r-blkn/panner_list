@@ -1,0 +1,8 @@
+.cross-out {
+    text-decoration: line-through red;
+}
+
+.red-color-priority {
+    font-size: 1.5rem;
+    color: #440404;
+}
